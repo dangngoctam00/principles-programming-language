@@ -1,0 +1,6 @@
+
+            Function: func
+            Body:  
+                Var: x = 0O120000000000000000000000000000;
+            EndBody.
+        

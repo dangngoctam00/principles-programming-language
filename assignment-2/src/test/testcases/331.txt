@@ -1,0 +1,6 @@
+
+            Function: foo
+            Body:
+                x = foo(2 + 4, another_foo(2,3 \ 5));
+            EndBody.
+        

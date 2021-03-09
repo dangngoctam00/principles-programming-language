@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x),StringLiteral(\\'"\f\n)),FuncDecl(Id(func)[],([][If(BinaryOp(==,Id(x),IntLiteral(4587983562262708224)),[],[If(BinaryOp(=/=,Id(y),StringLiteral('"\n\b\\)),[],[Dowhile([],[],BinaryOp(==,Id(x),IntLiteral(0))),While(BinaryOp(>=.,Id(x),IntLiteral(0)),[],[]),If(BinaryOp(==,Id(x),StringLiteral(\\a\n)),[],[])Else([],[])])Else([],[])])Else([],[])]))])

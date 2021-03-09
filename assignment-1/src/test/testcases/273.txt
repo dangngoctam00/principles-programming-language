@@ -1,0 +1,9 @@
+
+        Var: a[3] = {True,2,3};
+        Function: func
+        Body:
+            While (a < 5) && (j>6) || (k==7) d
+                a[i] = b +. 1.0;
+                i = i - b * a -. b \ c - -.d;
+            EndWhile.
+        EndBody.

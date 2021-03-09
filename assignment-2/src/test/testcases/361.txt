@@ -1,0 +1,12 @@
+
+        Var: a[3] = {True,2,3};
+        Function: func
+        Body:
+            Var: string = "string\b\n\r\f";
+            While (a < 5) && (j>6) || (k==7) Do
+                a[i] = b +. 1.0;
+                i = i - b * a -. b \ c - -.d;
+                a = (b + 3 - c * d =/= 5) || (b-d<.10); 
+                c[2][3] = 5\10.2\.func(a,b,c)+a[2+func()+c[4]];
+            EndWhile.
+        EndBody.

@@ -1,0 +1,12 @@
+
+            Var: x,a=6,arr[3][4] = {1,2,3, "string"};
+            Function: add
+            Parameter: a, b
+            Body:
+                While (b < 2.12) Do
+                    i = i + 1;
+                    Var: x = 3;
+                EndWhile.
+                Return a+b;
+            EndBody.
+            

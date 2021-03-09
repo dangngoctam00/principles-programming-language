@@ -1,0 +1,10 @@
+
+            Function: func
+            Body:  
+                If x == 0.E+12 Then
+                    If y =/= "'"\n\b\\" Then
+                      
+                    EndIf.
+                EndIf.
+            EndBody.
+        

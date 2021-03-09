@@ -1,0 +1,1 @@
+Program([VarDecl(Id(f),[3],ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(ArrayLiteral(IntLiteral(1)))))))))))))))))))),FuncDecl(Id(func)[],([][]))])

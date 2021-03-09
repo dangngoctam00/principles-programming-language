@@ -1,0 +1,15 @@
+
+            Function: foo
+            Parameter: a[3]
+            Body:
+                Var: x = 10.2, b = {1,2,3};
+                a = (b + 3 - c * d =/= 5) || (b-d<.10); 
+                c[2][3] = 5\10.2\.func(a,b,c)+a[2+func()+c[4]];
+                If x == 3 Then
+                    While a >. 3 Do
+                        a(b[c[2]], "\n\bString_12\f");
+                        a[3 + 5 \ 2] = func("\f\b\nString", funcc(1, 1.2)) * 2;
+                    EndWhile.
+                EndIf.
+            EndBody.
+        

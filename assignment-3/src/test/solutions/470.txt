@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: CallStmt(Id(foo),[Id(g),BinaryOp(==,CallExpr(Id(int_of_float),[CallExpr(Id(float_to_int),[IntLiteral(1)])]),IntLiteral(1)),BinaryOp(||,Id(z),BooleanLiteral(false)),BinaryOp(&&,Id(z),UnaryOp(!,CallExpr(Id(bool_of_string),[StringLiteral(False)])))])

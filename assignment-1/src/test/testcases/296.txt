@@ -1,0 +1,17 @@
+
+        Var: a[3] = {True,2,3};
+        Function: func
+        Parameter: a, x[3]
+        Body:
+            While (a < 5) && (j>6) || (k==7) Do
+            EndWhile.
+
+            While (a < 5) && j>6 || k==7 Do
+            EndWhile.
+
+            If(((((((x == 3))))))) Then
+                    x = y + z;
+                    func(3) ;
+                    x[y[z[y[t[a[z[a[e[f[q[a[s[a[3]]]]]]]]]]]]]] = 3;
+            EndIf.
+        EndBody.

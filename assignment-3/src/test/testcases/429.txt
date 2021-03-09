@@ -1,0 +1,11 @@
+                        
+                    Var: a = 5, f;
+                    Function: main
+                    Body:
+                        Var: r = 10., v = "45", d;
+                        printLn();
+                        v = read(); 
+                        printStr(5);                                           
+                        d = string_of_bool(f);
+                    EndBody.                    
+                

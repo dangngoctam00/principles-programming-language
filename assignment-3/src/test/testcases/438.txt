@@ -1,0 +1,21 @@
+                        
+                    Var: x, y, g;
+                    Function: main
+                    Body:
+                        Var: a, b, c;
+                        x  = True;
+                        y = 1;
+                        If bool_of_string("True") || (y > 0) && (float_to_int(y) <. float_of_string("")) Then
+                            Var: y[5];
+                            y = {1.2, 1.1, 2.1, 1.2, 1.1};                           
+                        ElseIf x Then
+                            Var: y[5];
+                            y = {1.2, 1.1, 2.1, 1.2, 1.1};   
+                        ElseIf y > 2 Then
+                            Var: y[5];
+                            y = {1.2, 1.1, 2.1, 1.2, 1.1};   
+                        ElseIf y > int_of_string("\n") Then
+                        Else
+                        EndIf.                    
+                    EndBody.                    
+                

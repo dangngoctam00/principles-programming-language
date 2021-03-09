@@ -1,0 +1,9 @@
+
+            Function: foo
+            Parameter: a
+            Body:                
+                If a Then c = 10;
+                ElseIf c == 6 Then d = 12;
+                EndIf.
+            EndBody.
+        

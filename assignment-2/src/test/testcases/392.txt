@@ -1,0 +1,11 @@
+
+            Function: func
+            Body:  
+                If True Then
+                    Var: a[1][0xABC] = {0o7023,{1.25E-36,1.25E+36}};
+                    For (a = 5, a == "'"" , a + 3) Do
+                        func(x);
+                    EndFor.
+                EndIf.
+            EndBody.
+        

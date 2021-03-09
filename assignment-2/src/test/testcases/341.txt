@@ -1,0 +1,12 @@
+
+            Var: x = 3;
+            **This is single line comment**
+            Function: fooaaaaa
+            Parameter: a , b[2]
+            Body:
+                Var: r = 10., abc[25][16] = {{1,2,3}, {5,6,7}};
+                x = (4. \. 3.) *. 3.14 *. r *. r *. r;
+                a[3 + foo(2)] = a[b[2][3][4]] + 4;
+            EndBody.
+            ****************************************************
+        

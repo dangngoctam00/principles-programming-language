@@ -1,0 +1,10 @@
+
+                    Var: x[1];                    
+                    Function: main
+                    Parameter: x, y, t, e, f, g
+                    Body:
+                        x = 1;
+                        x = printStr(string_of_int(12));
+                        Return x;
+                    EndBody.
+                

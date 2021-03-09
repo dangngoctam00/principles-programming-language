@@ -1,0 +1,16 @@
+
+        Var: a[3] = {True,-2,- 3};
+        Function: func
+        Parameter: a, x[3]
+        Body:
+            While a < 5 && j>=6 || k==7 Do
+            EndWhile.
+            **
+                    !@#$%^&*()_)
+            **
+            If(((((((x == 3))))))) Then
+                    x = y + z;
+                    func(3) ;
+            x[func(3) + 3] = 5;
+            EndIf.
+        EndBody.

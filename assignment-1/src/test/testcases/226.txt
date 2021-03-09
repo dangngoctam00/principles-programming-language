@@ -1,0 +1,6 @@
+
+            Function: foo
+            Body:
+                For (a = 3 + 5, a , a) Do EndFor.
+            EndBody.
+        

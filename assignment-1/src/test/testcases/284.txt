@@ -1,0 +1,10 @@
+
+            Function: foo
+            Body:
+                Do a = (b + 3);
+                                            xyz = x[3];
+                                c[func(3)+5*op[x[y[z[3]]]]] = 3;
+                c[2][3] = (((5)));
+                While x - y. EndDo.
+            EndBody.
+        

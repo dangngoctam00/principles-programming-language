@@ -1,0 +1,23 @@
+
+            Function: func
+            Parameter: a  , b[3], b[2][5]
+            Body:
+                For (a = 3 + 5, a ,1) Do
+                EndFor.
+            EndBody.
+
+            Function: funcc
+            Parameter: b[3], b[2][4][3]
+            Body:
+                While exp == 3 Do
+                    If x == 5 Then
+                        Do 
+                            x = x + 2; 
+                            Break;
+                            Return;
+                        While x == 3
+                        EndDo.
+                    EndIf.
+                EndWhile.
+            EndBody.
+        

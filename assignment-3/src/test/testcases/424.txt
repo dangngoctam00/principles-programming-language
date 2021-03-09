@@ -1,0 +1,16 @@
+                        
+                    Function: main
+                        Parameter: x
+                        Body:        
+                            Return 1;  
+                        EndBody.   
+
+                    Function: foo
+                        Parameter: z[2][2]
+                        Body:
+                            Var: r_type = 1, y;
+                            r_type = main(r_type);
+                            y = r_type + main(r_type) + 1;
+                            Return;
+                        EndBody. 
+                

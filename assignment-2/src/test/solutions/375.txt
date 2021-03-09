@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x),[3],ArrayLiteral(FloatLiteral(10500.0))),FuncDecl(Id(func)[VarDecl(Id(a))],([][If(BinaryOp(>,Id(x),FloatLiteral(1030000.0)),[],[])Else([],[])]))])

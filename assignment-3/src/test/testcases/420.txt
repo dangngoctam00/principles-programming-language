@@ -1,0 +1,11 @@
+                        
+                    Function: main
+                        Parameter: x
+                        Body:        
+                            If x Then
+                                Var: y = 1;
+                            ElseIf y Then
+                            EndIf.
+                            Return t;
+                        EndBody.    
+                

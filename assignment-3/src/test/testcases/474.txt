@@ -1,0 +1,22 @@
+                        
+                    Function: main
+                        Parameter: x, y, z, t                    
+                        Body:
+                            Var: a[1];
+                            x = -12;
+                            a[0] = -12;
+                            a[0] = -0.12E+5;
+                            Return;
+                        EndBody. 
+                    Function: foo
+                        Parameter: x, y, z, t
+                        Body:
+                            Return;
+                        EndBody.       
+
+                    Function: foo1
+                        Parameter: x, y, z, t
+                        Body:
+                            Return;
+                        EndBody.                      
+                

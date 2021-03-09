@@ -1,0 +1,15 @@
+
+            Function: func
+            Body:  
+                If x == 10.e+56 Then
+                    If y =/= "'"\n\b\\" Then
+                        Do 
+                            
+                        While x != 3.e-3 EndDo.
+                        While x >=. 0.e-5 Do EndWhile.
+                        var = x && f || z + y +. t - a -.p * f *. t \ k \. y % z || (!y) ;
+                        y = y -. 2;
+                    EndIf.
+                EndIf.
+            EndBody.
+        

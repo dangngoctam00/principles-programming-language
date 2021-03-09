@@ -1,0 +1,14 @@
+
+            Function: func
+            Body:  
+                If x == 0X3FABCABDE Then
+                    If y =/= "'"\n\b\\" Then
+                        Do 
+                            func(a[f[z[a[r[t[y[u[i[o[p[l[k[j[h[g[f[d + 0XF12]]]]]]]]]]]]]]]]], 0O120, "\\'"");
+
+                        While x != 3.e+11 EndDo.
+                        While x >=. 0.e+5 Do EndWhile.                                                
+                    EndIf.
+                EndIf.
+            EndBody.
+        

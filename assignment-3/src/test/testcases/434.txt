@@ -1,0 +1,9 @@
+                        
+                    Function: main
+                        Parameter: x
+                        Body:        
+                            Var: t[1][1] = {{1}}, y;                            
+                            y = printStrLn("\f\'\r\b\n\\");
+                            Return t;
+                        EndBody.    
+                

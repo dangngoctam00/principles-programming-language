@@ -1,0 +1,16 @@
+
+        Var: a[1][0xABC] = {0o7023,{1.25E-36,1.25E+36}};
+        Function: main
+        Parameter: a[123], b , x
+        Body:
+            a = !((-.2.0 + 3 * func() \. 100.0 % arr[300] > 10)|| (-(a*.5-2))=/=10);
+            If a > 10 Then
+                If b % 10 Then 
+                    a[b[e]] = 10;
+                ElseIf c =/= 10e-10 Then
+                    a = a[b[e]];
+                    Return func(func(a[2][3]));
+                EndIf.
+            EndIf.
+        EndBody.
+        

@@ -1,0 +1,18 @@
+
+            Function: func
+            Parameter: x[3], b[3]
+            Body:
+                If x < 3 Then
+                    If x < 3 Then
+                        If x < 3 Then
+                            If x < 3 Then
+                                If x < 3 Then
+                                    If x < 3 Then
+                EndIf.
+                EndIf.
+                EndIf.
+                EndIf.
+                EndIf.
+                EndIf.
+            EndBody.
+        

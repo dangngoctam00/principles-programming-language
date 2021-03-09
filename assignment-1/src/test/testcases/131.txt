@@ -1,0 +1,8 @@
+
+            **This is single line comment***
+            x + 3 = 5;
+            **This is a
+            * multi-line
+            * comment
+            **
+        

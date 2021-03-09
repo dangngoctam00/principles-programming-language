@@ -1,0 +1,9 @@
+
+        Var: x[3] = {10.5E+3};
+            Function: func
+            Parameter: a
+            Body:  
+                If x > 10.3E+5 Then
+                EndIf.
+            EndBody.
+        

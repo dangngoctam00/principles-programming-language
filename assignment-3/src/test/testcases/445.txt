@@ -1,0 +1,15 @@
+    
+                    Var: a;
+                    Function: main
+                        Parameter: x[1][1], z
+                        Body:      
+                            z = 1;
+                            For (a = int_of_float(float_to_int(int_of_string("2"))) + int_of_string("\'"), True , 3 + 5 * 2 - 4 \3) Do
+                                Var: z[1][2], x;
+                                z = {{True, False}};
+                                x = z[0][0];
+                            EndFor.
+                            Return;
+                        EndBody.   
+                   
+                

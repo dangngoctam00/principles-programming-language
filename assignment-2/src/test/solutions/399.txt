@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(func)[],([][While(BinaryOp(>,Id(a),IntLiteral(4)),[],[While(BinaryOp(>,Id(a),IntLiteral(4)),[],[While(BinaryOp(>,Id(a),IntLiteral(4)),[],[While(BinaryOp(>,Id(a),IntLiteral(4)),[],[While(BinaryOp(>,Id(a),IntLiteral(4)),[],[])])])])])]))])

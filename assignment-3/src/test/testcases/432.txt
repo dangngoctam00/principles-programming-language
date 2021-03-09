@@ -1,0 +1,15 @@
+                        
+                    Var: a = 5, f;
+                    Function: main
+                    Body:
+                        Var: r = 10., v = "45", d, g, h;
+                        printLn();
+                        v = read(); 
+                        printStr("\b\f");
+                        printStrLn("\n\f\b132");  
+                        f = bool_of_string("\n\f**hello");                                   
+                        d = string_of_bool(f);
+                        g = int_of_string(d);
+                        h = float_to_int(g);
+                    EndBody.                    
+                

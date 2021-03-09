@@ -1,0 +1,15 @@
+
+            Var: x = 3;
+            Function: func
+            Parameter: x
+            Body:
+                x = func("\\'"", func("\\'"", func("\\'"", func("\\'"", func("\\'"", func("\\'"", func()))))));
+                Return;
+            EndBody.
+            Function: func
+            Parameter: x[0O170]
+            Body:
+                x = func("\\'"", func("\\'"", func("\\'"", {1,2,3,4,{1,2,3}, True, False, 0.E+5} ,func("\\'"", func("\\'"", func("\\'"", func()))))));
+                Return;
+            EndBody.
+        

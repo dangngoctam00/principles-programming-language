@@ -1,0 +1,7 @@
+
+        Var: a[3] = {True,2,3};
+        Function: func
+        Parameter: f[2][3][4][5]
+        Body:
+           string = "\n\f\n";
+        EndBody.

@@ -1,0 +1,22 @@
+    
+                    Var: a;
+                    Function: main
+                        Parameter: x, z, y
+                        Body:    
+                            If x == 0X3FABCABDE Then
+                                If y =/= float_of_string("12.2") Then
+                                    Do                             
+                                    
+                                    While x != 0o10 EndDo.
+                                    While x > int_of_string("") Do 
+                                        While False Do
+                                            Var: x;
+                                            x = 0.1;
+                                            While x =/= 1.2 Do
+                                            EndWhile.
+                                        EndWhile.
+                                    EndWhile.                                                                                                            
+                                    EndIf.
+                            EndIf.
+                        EndBody.                                                       
+                

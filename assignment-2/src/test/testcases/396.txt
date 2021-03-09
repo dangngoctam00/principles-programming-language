@@ -1,0 +1,9 @@
+
+            Var: x = 3;
+            Function: func
+            Parameter: x
+            Body:
+                x = func("\\'"", func("\\'"", func("\\'"", func("\\'"", func("\\'"", func("\\'"", func()))))));
+                Return;
+            EndBody.
+        

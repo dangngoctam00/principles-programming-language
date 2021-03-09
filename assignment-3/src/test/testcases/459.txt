@@ -1,0 +1,20 @@
+    
+                    Var: a;
+                    Function: main
+                        Parameter: x, z, y
+                        Body:    
+                            Do Do Do Do Do Do Do Do Do Do Do While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo. While x == int_of_string("")
+                            EndDo.
+                            Return;
+                        EndBody.                                                       
+                

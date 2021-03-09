@@ -1,0 +1,25 @@
+
+            Function: func
+            Parameter: a  , b[3], b[2][5]
+            Body:  
+                If x > 10.3E+5 Then
+                EndIf.
+            EndBody.
+
+            Function: funcc
+            Parameter: b[3], b[2][4][3]
+            Body:
+                While ( exp == 3) && (x == 3) Do
+                    If x == (55) Then
+                            x = x + 2; 
+                            Break;
+                            t = True;
+                            goo("\n\b\f\t This is String :)");
+                            Return;
+                        While x == 3 Do
+                        EndWhile.
+                    EndIf.
+                    y = (x == 5);
+                EndWhile.
+            EndBody.
+        

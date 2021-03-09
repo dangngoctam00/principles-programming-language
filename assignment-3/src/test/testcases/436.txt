@@ -1,0 +1,27 @@
+                        
+                    Var: x, y, g;
+                    Function: main
+                    Body:
+                        Var: a, b, c;
+                        x  = True;
+                        y = 1;
+                        If bool_of_string("True") Then
+                            a = int_of_string(b);
+                            c = float_to_int(a) +. 2.0 -. 1.2;
+                        ElseIf x Then
+                            printLn();
+                        ElseIf y > 2 Then
+                            Var: g;
+                            g = string_of_int(2);
+                        ElseIf y Then
+                        Else
+                        EndIf.                    
+                    EndBody.
+
+                    Function: doo
+                    Parameter: a
+                    Body:
+                        a = "\n\'";
+                        Return 2;
+                    EndBody.   
+                

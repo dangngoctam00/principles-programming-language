@@ -1,0 +1,8 @@
+
+            Function: foo
+            Parameter: a
+            Body:
+                a = (b + 3 - c * d =/= 5) || (b-d<.10); 
+                c[2][3] = 5\10.2\.func(a,b,c)+a[2+func()+c[4]];
+            EndBody.
+        

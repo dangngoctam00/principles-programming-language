@@ -1,0 +1,9 @@
+Var: x[1];
+                    Var: main;
+                    Function: foo
+                    Parameter: x[1][1]
+                    Body:
+                        x = {{1.1}};                        
+                        Return x;
+                    EndBody.
+                

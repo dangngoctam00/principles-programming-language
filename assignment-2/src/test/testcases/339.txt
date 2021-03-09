@@ -1,0 +1,6 @@
+
+            Var: x = 3;
+            **This is single line comment**
+            ****************Var: abc = 5;****
+            Var: ff = 2;
+        

@@ -1,0 +1,12 @@
+
+            Var: x,a=6,arr[3][4] = {1,2,3};
+            Function: add
+            Parameter: a, b
+            Body:
+                x = 5;
+                While (a == 12) Do
+                    i = i + 1;
+                EndWhile.
+                Return a+b;
+            EndBody.
+            

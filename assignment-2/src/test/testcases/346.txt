@@ -1,0 +1,13 @@
+
+            Var: x,a=6,arr[3][4] = {1,2,3, "string"};
+            Function: add
+            Parameter: a, b
+            Body:
+               If(((((((x == 3))))))) Then
+                    x = y + z;
+                    func(3) ;
+                x[func(3) + 3] = 5;
+                EndIf.
+                Return a+b;
+            EndBody.
+            

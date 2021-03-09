@@ -1,0 +1,15 @@
+
+        Var: a[3] = {True,2,3};
+        Function: func
+        Parameter: a, x[3]
+        Body:
+            While (a < 5) && (j>6) || (k==7) Do
+            EndWhile.
+
+            While (a < 5) && (j>6) || (k==7) Do
+            EndWhile.
+
+            If(((((((x == 3))))))) Then
+                    x = y + z;
+            EndIf.
+        EndBody.

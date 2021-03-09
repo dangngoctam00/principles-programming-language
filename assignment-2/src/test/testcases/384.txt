@@ -1,0 +1,16 @@
+
+            Var: x = "\\'"\f\n";
+            Function: func
+            Body:  
+                If x == 0X3FABCABDE0000000 Then
+                    If y =/= "'"\n\b\\" Then
+                        Do 
+                            
+                        While x == 0 EndDo.
+                        While x >=. 0 Do EndWhile.
+                        If x == "\\a\n" Then
+                        EndIf.
+                    EndIf.
+                EndIf.
+            EndBody.
+        

@@ -1,0 +1,13 @@
+
+            Function: func
+            Body:  
+                If x == 0 Then
+                    If y =/= "'"\n\b\\" Then
+                       
+                    EndIf.
+
+                EndIf.
+                func("'"\\");
+                Return x == 3;
+            EndBody.
+        

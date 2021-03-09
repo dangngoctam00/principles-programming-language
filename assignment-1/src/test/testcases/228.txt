@@ -1,0 +1,6 @@
+
+            Function: foo
+            Body:
+                While a = 1 Do a= 5 EndWhile.
+            EndBody.
+        

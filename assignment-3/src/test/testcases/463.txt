@@ -1,0 +1,8 @@
+                        
+                    Function: main
+                        Parameter: x, y, z                        
+                        Body:        
+                            y = x \ (y - ( x + (x * (int_of_float(1.2) + y))));
+                            Return x;
+                        EndBody.                       
+                

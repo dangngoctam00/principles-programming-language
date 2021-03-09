@@ -1,0 +1,14 @@
+
+                    Var: a;
+                    Function: foo
+                    Body:
+                        a = 1.2;
+                        Return;
+                    EndBody.
+
+                    Function: main
+                    Body:
+                        a = True;                        
+                        Return;
+                    EndBody.
+                

@@ -1,0 +1,4 @@
+
+            Var: x[3] = {0xA12, 0o7777, 0O123, 0XFFFFF};
+            Var: x[3][0xAAA][0O12370], f = {2,3,4, True, False, "\n\f\bstring\b'""};
+        

@@ -1,0 +1,18 @@
+
+            Function: func
+            Body:  
+                If x == 0X3FABCABDE Then
+                    If y =/= "'"\n\b\\" Then
+                        Do 
+                            
+                        While x != 3.e-3 EndDo.
+                        While x >=. 0.e-5 Do
+                            hi = ":)";
+                            func("'"\\");
+                            x = func("hi ;)", "00000213");
+                            ** this is a comment :))))))))**
+                        EndWhile.                    
+                    EndIf.
+                EndIf.
+            EndBody.
+        

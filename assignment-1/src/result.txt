@@ -1,0 +1,23 @@
+Tests run  1
+Errors  []
+[(<LexerDump.LexerSuite testMethod=test_string_11>,
+  'Traceback (most recent call last):\n'
+  '  File "./test\\LexerDump.py", line 6, in test_string_11\n'
+  '    self.assertTrue(TestLexer.checkLexeme("\\"tam\\n\\"", "Error Token '
+  '\\"", 17))\n'
+  'AssertionError: False is not true\n')]
+Test output
+ F
+======================================================================
+FAIL: test_string_11 (LexerDump.LexerSuite)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "./test\LexerDump.py", line 6, in test_string_11
+    self.assertTrue(TestLexer.checkLexeme("\"tam\n\"", "Error Token \"", 17))
+AssertionError: False is not true
+
+----------------------------------------------------------------------
+Ran 1 test in 0.019s
+
+FAILED (failures=1)
+

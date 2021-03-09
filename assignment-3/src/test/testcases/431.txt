@@ -1,0 +1,13 @@
+                        
+                    Var: a = 5, f;
+                    Function: main
+                    Body:
+                        Var: r = 10., v = "45", d;
+                        printLn();
+                        v = read(); 
+                        printStr("\b\f");
+                        printStrLn("\n\f\b132");  
+                        f = bool_of_string("\n\f**hello");                                   
+                        d = string_of_bool(f);
+                    EndBody.                    
+                

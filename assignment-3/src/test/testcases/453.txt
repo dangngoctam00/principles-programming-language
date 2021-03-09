@@ -1,0 +1,23 @@
+    
+                    Var: a;
+                    Function: main
+                        Parameter: x, z
+                        Body:    
+                            x = True;                                                                               
+                            Do 
+                                Var: x, z;
+                                x = 2;                            
+                                printLn();
+                                printStr(string_of_float(0.1E+4));
+                            While foo() > int_of_string("hi ;)")  EndDo.                                                    
+                            Return x;
+                        EndBody.
+
+                    Function: foo
+                        Body:
+                            Var: x = "1.2";
+                            x = string_of_bool(main(True, 1));
+                            Return float_of_string(x);                        
+                        EndBody.   
+                   
+                

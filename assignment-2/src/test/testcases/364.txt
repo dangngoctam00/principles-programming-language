@@ -1,0 +1,8 @@
+
+        Var: a[3] = {True,False, 1.231341421};
+        Function: func
+        Parameter: a
+        Body:
+            
+        EndBody.
+        

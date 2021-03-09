@@ -1,0 +1,8 @@
+
+            Function: foo
+            Parameter: a  , b[3]
+            Body:
+                For (a = 3 + 5, a ,1) Do
+                EndFor.
+            EndBody.
+        

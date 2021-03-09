@@ -1,0 +1,22 @@
+
+            Var: x = 3;
+            **This is single line comment**
+            Function: function
+            Parameter: x, y
+            ** abc_xyz**
+            Body:
+            **This is a
+            * multi-line
+            * comment
+            **
+            EndBody.
+            Function: testFunction
+            Parameter: a[2], b, c
+            Body:
+                Var: b[3][2] = {{1,2,3}, {3,4,5}}, x = 12;
+                For (a = 3, b && c || d && e, i \ 3)
+                **////abc_xyz**
+                Do x = x + 2; y = y + 3;
+                EndFor.
+            EndBody.
+        

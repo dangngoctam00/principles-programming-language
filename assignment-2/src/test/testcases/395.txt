@@ -1,0 +1,19 @@
+
+            Var: x[3];
+            Function: func
+            Body:
+                Do Do Do Do Do Do Do Do Do Do Do While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo. While x == "\\"
+                EndDo.
+                Return;
+            EndBody.
+        

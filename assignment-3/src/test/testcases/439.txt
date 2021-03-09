@@ -1,0 +1,16 @@
+                        
+                    Var: x, y, g, k;
+                    Function: main
+                    Body:
+                        Var: a, b, c;
+                        x  = True;
+                        y = 1;
+                        If bool_of_string("True") || (y > 0) && (float_to_int(y) <. float_of_string("")) Then
+                            Var: y;
+                            y = 1.2;
+                            g = string_of_bool(x);
+                            k = int_of_float(float_to_int(int_of_float(y)) *. 1.2 -. 3.0);
+                        Else
+                        EndIf.                    
+                    EndBody.                    
+                

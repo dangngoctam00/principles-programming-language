@@ -1,0 +1,15 @@
+
+            Function: func
+            Body:
+            While a > 4 Do
+                While a > 4 Do
+                    While a > 4 Do
+                        While a > 4 Do
+                            While a > 4 Do
+                            EndWhile.
+                        EndWhile.
+                    EndWhile.                    
+                EndWhile.
+            EndWhile.
+            EndBody.
+        

@@ -1,0 +1,23 @@
+    
+                    Var: a;
+                    Function: main
+                        Parameter: x, z, y
+                        Body:    
+                            If x == 0X3FABCABDE Then
+                                If y =/= float_of_string("12.2") Then
+                                    Do                             
+                                    
+                                    While x != 0o10 EndDo.
+                                    While z >=. 0.e-5 Do 
+                                    
+                                    EndWhile.                                    
+                                    
+                                    func();
+                                    EndIf.
+                            EndIf.
+                        EndBody. 
+                    Function: func                        
+                        Body:
+
+                        EndBody.                                      
+                

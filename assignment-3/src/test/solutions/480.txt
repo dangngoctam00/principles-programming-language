@@ -1,0 +1,1 @@
+Type Mismatch In Statement: CallStmt(Id(foo1),[UnaryOp(-.,FloatLiteral(1.2)),Id(y),CallExpr(Id(int_of_float),[FloatLiteral(0.1)]),UnaryOp(-,IntLiteral(1))])

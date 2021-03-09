@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(func)[],([][If(BinaryOp(==,Id(x),FloatLiteral(0.0)),[],[If(BinaryOp(=/=,Id(y),StringLiteral('"\n\b\\)),[],[])Else([],[])])Else([],[])]))])

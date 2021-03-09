@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x),[3],ArrayLiteral(IntLiteral(2578),IntLiteral(4095),IntLiteral(83),IntLiteral(1048575))),VarDecl(Id(x),[3,2730,5368]),VarDecl(Id(f),ArrayLiteral(IntLiteral(2),IntLiteral(3),IntLiteral(4),BooleanLiteral(true),BooleanLiteral(false),StringLiteral(\n\f\bstring\b'")))])

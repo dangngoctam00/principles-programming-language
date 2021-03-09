@@ -1,0 +1,12 @@
+
+            Function: foo
+            Parameter: a
+            Body:
+                If c == 10 Then
+                ElseIf a -   ** comment ** 3 Then
+                ElseIf a -   ** comment ** 3 Then
+                ElseIf a -   ** comment ** 3 Then
+                Else
+                EndIf.
+            EndBody.
+        

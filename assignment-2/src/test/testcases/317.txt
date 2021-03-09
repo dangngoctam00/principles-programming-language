@@ -1,0 +1,8 @@
+
+            Function: foo
+            Body:
+                Var: x = 3;
+                Var: y = {1,2,"\n"};
+                Var: x = True;
+            EndBody.
+        

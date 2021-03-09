@@ -1,0 +1,12 @@
+
+            Var: x,a=6,arr[3][4] = {1,2,3};
+            Function: add
+            Parameter: a, b
+            Body:
+                Var: x, y ,z ,t,f,a;
+                While (a + b < 2.12) Do
+                    i = i + 1;
+                EndWhile.                
+                Return a+b;
+            EndBody.
+            

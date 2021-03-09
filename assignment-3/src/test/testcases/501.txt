@@ -1,0 +1,21 @@
+
+                    Var: a;
+                    Function: main
+                    Body:
+                        Var: x[1][1];
+                        foo(foo1());
+                        Return;
+                    EndBody.
+
+                    Function: foo
+                        Parameter: x[1][1]
+                    Body: 
+                        Return;
+                    EndBody.
+
+                    Function: foo1                        
+                    Body: 
+                        Var: x[1][1];
+                        Return x;
+                    EndBody.
+                

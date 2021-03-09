@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(func)[],([][If(BooleanLiteral(true),[VarDecl(Id(a),[1,2748],ArrayLiteral(IntLiteral(3603),ArrayLiteral(FloatLiteral(1.25e-36),FloatLiteral(1.25e+36))))],[For(Id(a),IntLiteral(5),BinaryOp(==,Id(a),StringLiteral('")),BinaryOp(+,Id(a),IntLiteral(3)),[],[CallStmt(Id(func),[Id(x)])])])Else([],[])]))])

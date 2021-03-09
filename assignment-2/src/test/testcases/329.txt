@@ -1,0 +1,6 @@
+
+            Function: foo
+            Body:
+                foo(func(a + 2, b \ 3) + 3 * 6, zz);
+            EndBody.
+        

@@ -1,0 +1,15 @@
+    
+                    Function: foo
+                        Parameter: x[1][1], y
+                        Body:                                 
+                            x = {{1}};
+                            Return x;
+                        EndBody.   
+
+                    Function: main
+                        Parameter: x, z
+                        Body:        
+                            Var: t[1][1] = {{1}};                 
+                            Return t;
+                        EndBody.    
+                

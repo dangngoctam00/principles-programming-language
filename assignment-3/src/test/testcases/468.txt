@@ -1,0 +1,19 @@
+                        
+                    Function: main
+                        Parameter: x, y, z, t                    
+                        Body:
+                            Var: k[1][1][1][1][1];        
+                            z = x > y;
+                            t = !bool_of_string("True");
+                            t = !t; 
+                            z = t;
+                            t = z;
+                            foo(1 != 2,1 == 1,z || False,z && !bool_of_string("False"));
+                            Return;
+                        EndBody. 
+                    Function: foo
+                        Parameter: x, y, z, t
+                        Body:
+                            Return;
+                        EndBody.                      
+                

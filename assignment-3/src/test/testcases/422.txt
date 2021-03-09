@@ -1,0 +1,14 @@
+                        
+                    Function: main
+                        Parameter: x
+                        Body:        
+                            If x == 1 Then
+                                Var: y = 1, x = "\n\tHello";
+                                Var: z = True;
+                            ElseIf x > 1 Then
+                                Var: x = 5;
+                                z = False;
+                            EndIf.
+                            Return x;
+                        EndBody.    
+                

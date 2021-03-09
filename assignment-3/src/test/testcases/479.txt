@@ -1,0 +1,9 @@
+Var: x[1];
+                    Var: y[1] = {{1,2}};
+                    Function: main
+                    Parameter: x, y
+                    Body:
+                        x = {{1.1}};
+                        Return x;
+                    EndBody.
+                

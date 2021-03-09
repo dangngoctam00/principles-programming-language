@@ -1,0 +1,8 @@
+
+            Function: add
+            Body:
+                While (a != 12) Do
+                    x[a[a[3]] = "hello";
+                EndWhile.
+            EndBody.
+            

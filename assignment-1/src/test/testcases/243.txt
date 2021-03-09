@@ -1,0 +1,6 @@
+
+            Function: foo
+            Body:
+                While a == 3 Do x = x + 1; Break EndWhile.
+            EndBody.
+        

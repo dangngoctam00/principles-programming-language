@@ -1,0 +1,13 @@
+
+            Var: x,a= + 6,arr[3][4] = {-1,a,b,c,d};
+            Function: add
+            Parameter: a, b
+            Body:
+                Return a+b;
+            EndBody.
+            Function: func
+            Parameter: a,b,v,c,d,aq,e,r,q
+            Body:
+                Return a<0 || (a < 3);
+            EndBody.
+            

@@ -1,0 +1,16 @@
+    
+                    Var: a;
+                    Function: foo
+                        Parameter: x[1][1]
+                        Body:      
+                            For (a = 3 + int_of_string("\'"), False , 1) Do
+                            EndFor.
+                            Return;
+                        EndBody.   
+
+                    Function: main
+                        Parameter: x, y, z[1][1]
+                        Body:                            
+                            Return;
+                        EndBody.    
+                

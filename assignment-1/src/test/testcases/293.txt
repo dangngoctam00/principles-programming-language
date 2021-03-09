@@ -1,0 +1,8 @@
+
+        Var: a[3] = {True,2,3};
+        Function: func
+        Parameter: a = 2;
+        Body:
+            While (a < 5) && (j>6) |||| (k==7) Do
+            EndWhile.
+        EndBody.
